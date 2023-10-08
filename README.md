@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/D1mmortalDev)
 <h1 align="center">Hi 👋, I'm Bernadette</h1>
-<h3 align="center">A passionate mobile developer from Philippines</h3>
+<h3 align="center">I'm aspiring to become a Mobile Developer 👩‍💻✨️</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1mmortaldev&label=Profile%20views&color=0e75b6&style=flat" alt="d1mmortaldev" /> </p>
 
