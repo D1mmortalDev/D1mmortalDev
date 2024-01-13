@@ -4,12 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1mmortaldev&label=Profile%20views&color=0e75b6&style=flat" alt="d1mmortaldev" /> </p>
 
-- 🌱 I’m currently learning FCM and Push Notifications
-- 🔭 I’m currently working on Simple Push Notifications
+- 🌱 I’m currently learning Firebase Messaging
+- 🔭 I’m currently working on [Chika](https://github.com/D1mmortalDev/Chika)
 - 👯 I’m looking to collaborate on [Loo App](https://github.com/D1mmortalDev/LooApp)
 - 🤝 I’m looking for help with [mapbox](https://www.mapbox.com/)
 - 👨‍💻 All of my projects are available at [https://github.com/D1mmortalDev](https://github.com/D1mmortalDev)
-- 💬 Ask me about **Kotlin, Mapbox, Retrofit and APIs**
+- 💬 Ask me about **Kotlin, Mapbox, Firebase, Retrofit and APIs**
 - 📫 How to reach me **bernadettedejesus99@gmail.com**
 - ⚡ Fun fact **I love self-help books.**
 
